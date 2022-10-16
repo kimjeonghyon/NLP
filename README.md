@@ -1,4 +1,9 @@
-# NLP
+## transformer
+* selfattention 계산 예시
+tranformer/selfattention_example.ipynb
+
+
+
 ## 가짜연구소 스터디 결과물
 ### 가짜 연구소
 https://www.notion.so/PseudoLab-c42db6652c1b45c3ba4bfe157c70cf09
